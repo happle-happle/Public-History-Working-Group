@@ -21,3 +21,9 @@ where digital content creation shapes who is and is not a subject worthy of prot
 Github Pages supported digital exhibition design. Steper learning curve and specific information layout (history timelines, maps, featured items)
 
 - [CollectionBuilder Github](https://github.com/CollectionBuilder/collectionbuilder-gh)
+
+**Eva Heyward - Spider City Sex** 
+
+[![Blonde woman, headshot with red lipstick](/Repo-Image-files/eva-hayward-thumb.png)]([https://news.artnet.com/art-world/ryuichi-sakamoto-tin-drum-mixed-reality-the-shed-2312616](https://www.vfw.or.at/wp-content/uploads/2016/02/Hayward_Eva_Spider_City_Sex.pdf))
+
+- I often think about what we have to offer one another as a motivation for teaching (as opposed to upholding subject expertise). I would like to contribute to queer histor in the city, but I have come to believe that through my bibliography of oral and public history that this is only a possibility if we build a cultural, intellectual, and artistic relationship, a cohort of people who internalize these stories as ways of navigating Pittsburgh, that is to say to move around with a common sense of history. One of the many things Heyward offers in this essays is somatic experience of her transition beyond "gender" and "identification." It's an enhancement / an unpredictable and compelling change in her realtionship to the world, the psychoanalytic definition of sexuality, the underpinning of the erotic, which is not about men and women and the question of reproduction through sex, but sex as the refashioning of matter through cultural and molecular incision/inscription.
