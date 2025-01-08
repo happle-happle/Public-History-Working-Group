@@ -30,6 +30,9 @@ Github Pages supported digital exhibition design. Steper learning curve and spec
 
 **Harrison Apple - Book Proposal Writing Exercise**
 - I have a project about how my research usually took place in people's homes, and I was learning about how Pittsburgh was made up of alienated living quarters that simultaneously extended the stories I was tracing from the 20s to the 60s to the 90s. Could we have a guest speaker and writing exercise as one of the meetups?
+
+
+**Harrison Apple - Media Engagement Activity with TheatriQ - Preview of Piece for BrewHouse Show**
 - Meeting with TheatriQ group. Preview of piece in BrewHouse Show, open vcr, mark making on VHS tape, 10 in ensemble. live recording and playback, playback as an involved, longterm, and rewarding process.
 - queer speakeasy, underwater, giving them a context for queer nightlife, I don't care if they're historically accurate because people created what they wanted and needed. That's the core of what I'm attracted to. There's room to speculate about whatever it is that looms in your future.
 - Intro - get a sense of what they're up to, where they're at with the piece, engage them in conversation about what kidn of relationships we can have to history (speculative, reverent so on), and finish with the playback activity (briung camera and vhsj slide projectors and popup screen.
