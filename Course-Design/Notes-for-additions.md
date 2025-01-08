@@ -1,3 +1,5 @@
+Notes Document for Harrison Apple for consideration as additions to full program agenda
+
 **Yoyo Munk - Tin Drum** 
 Ryuichi Sakamoto / Volumetric Capture project
 
@@ -36,3 +38,5 @@ Github Pages supported digital exhibition design. Steper learning curve and spec
 - Meeting with TheatriQ group. Preview of piece in BrewHouse Show, open vcr, mark making on VHS tape, 10 in ensemble. live recording and playback, playback as an involved, longterm, and rewarding process.
 - queer speakeasy, underwater, giving them a context for queer nightlife, I don't care if they're historically accurate because people created what they wanted and needed. That's the core of what I'm attracted to. There's room to speculate about whatever it is that looms in your future.
 - Intro - get a sense of what they're up to, where they're at with the piece, engage them in conversation about what kidn of relationships we can have to history (speculative, reverent so on), and finish with the playback activity (briung camera and vhsj slide projectors and popup screen.
+- Bringing the slide projector and reel opens up the opportunity to explain that I've fabricated a kind of artifact. It's a "slide" that is new of image data about an "old" slide, copied from a Jpeg, Exported from the video data on a DVD, encoded from a capture card, receiving an analog composite signal from a VCR, playing back a reel of VHS tape, imprinted with a magnetic writer head, receiving data from a sensor, received from the light cast through a slide, that has long since disappeared but is not with certainty beyond finding. The question is what you expect the find in the original and why you believe you want it?
+- These are records from a private membership club, which is a nebulous and intentionally meaningless community identification. It escapes the expectations of collective action toward representation in the public sphere. I learned this by finding patterns between the recorded interviews I took with former members / officers and the cultural studies works that address how we know when we "belong" to something that is not itself a citizenship or a blood relative.
