@@ -117,3 +117,80 @@ October
 November
 
 December
+
+---
+
+# February 6th edits
+
+## Timing
+-Late summer 2025 initial meeting
+-Weekly or Bi-Weekly, Thursday nights
+
+-Tuesday evening
+
+### June - Initial Meeting - What is my wildest dream
+Participants share their area of interest or topic.
+Demonstrations or presentations about existing public research history projects
+- Georgia Dusk
+- Zora Neale Hurston, anthropologist of her own people
+
+Deciding what’s the question we want people to leave intending to come back with
+“Who is your north star”
+What are you curious about?
+What are your wildest dreams
+- Something on the level of the Oakland Main Library Branch
+- Some video from the archive about the old building fund
+- What would you rather see built with the budget of “cop-city”
+- What do we need to live here
+Oral interview projects
+- Mi'Jan Celie Tho-Biaz, Ed. D, guest
+
+### July (Bekezela might be traveling, could be virtual)
+What do I need to get there, how do you strategize a seemingly impossible dream
+Who has tried it before, and how do I know or get to know their story?
+- Zora Neale Hurston, [paraphrase] “I’m gonna make a life or die trying”
+- Annotated Bibliography about black lesbians
+ - Bekezela wanting to make a new version
+ - Barbara Smith “Is it possible to be a black lesbian writer and survive”
+ - JR Roberts (aka Barbara Henry), New Alexandria Women’s Library in Chicago
+ - Gay American History, Jonathan Ned Katz
+Introducing Big documentary projects
+ - Channing Joseph, picking someone out of misrepresentation
+ - William Dorsey Swann
+ - Toshi Raegon
+ - Lyam Gabel and indee mitchell (Alleged Lesbian Activity)
+
+### August - Spaced
+ - Material preservation
+ - Digital repositories and lightweight service
+  - outcome: People willing to be in network with support/care of collections
+  - activity: Trying out methods and materials in a sandbox
+
+### September - meetups to sustain
+
+Themes responding to what our communities’ needs are becoming
+Values and Ethics of research
+Oral history ethics / documentary
+Channing Joseph, PhD
+Material preservation
+People willing to be in network with support/care of collections
+Oral interview projects
+Mi'Jan Celie Tho-Biaz, Ed. D, guest
+Digital collections / Programs
+Miriam Neptune
+Shirley Olifar
+Creative Public History - Parable Path / Octavia Butler
+Toshi Raegon
+Lyam Gabel and indee mitchell (Alleged Lesbian Activity)
+Educational and cultural gap in common history
+The Laramie Project at the Theater Factory in Trafford, PA
+
+#### Research Area Proposals
+Each participant has a proposed research idea, that they can work with as a place to ask questions from visitors, to incorporate the themes they talking about.
+No specific deliverable can be collaborated
+
+#### Adjacent programs
+After School @ CMOA
+Pedagogical approaches
+Honcho Campout
+Speaker series and Queer Fam Fund programs
