@@ -165,6 +165,7 @@ Introducing Big documentary projects
  - Digital repositories and lightweight service
   - outcome: People willing to be in network with support/care of collections
   - activity: Trying out methods and materials in a sandbox
+  - Carnegie Public Library Oakland Main ReCollection Studio (email Emily Kubincanek)
 
 ### September - meetups to sustain
 
