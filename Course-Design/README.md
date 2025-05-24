@@ -1,1 +1,26 @@
-Placeholder
+<h1>June 11 2025</h1>
+
+**Introductions**
+
+We are at [ STUDIO or Kingsley Association ] for our first meeting, held from 6 PM to 9 PM.
+
+The goal for today is to introduce the Public History Summer School, what our motivations are for having done it, who funded it, who all is in attendance, and what we will be doing together privately as well as with public events. 
+
+We go over an outline schedule for this meetup: the further summer schedule (June 18th, and two weeks in July and August), discuss how participants will receive their research funds & equipment, and finally the kind of documentation we should consider part of our being together so that we can share what worked with others.
+
+Bekezela and Harrison have a conversation with the group about the Summer School, touching on literacy, how to talk about power, our relationship to archives and the institutions that dictate the use of the word, the way that we listen to others and how we learn. Everyone in attendance has been invited because of something they already do, a pool of methods and ways of articulating what they do that will useful to one another.
+
+This conversation is a transition to introducing everyone to one another (Bekezela, Harrison, and the 15 cohort members).
+
+**The Imagined Outcome**
+
+The Summer School is a workshop for participants who are *about to* start on a research project that is not yet fully formed. During the summer school we will talk about our research questions, refining how to identify the kind of learning we want to do, the outcomes we imagine, and ultimately developing a plan of action for how to get there. 
+
+Participants have all applied with a research project in mind and our goal is to have everyone reach August with actionable next steps to execute, a system of documentation so they can keep track of their research, as well as literal tools needed to carry it out.
+
+The first month should be able to identify the questions being asked by all of the participants, pointing to the methods that they can incorporate into their practice. Emphasis being on practice, not mastery. We are all going to be helping one another try something beyond our comfort / confidence. Methods to be expected include: oral history interviews (individuals and groups), accessing archival collections in traditional institutions, managing collected material (analog, digital, paper etc), audio/visual editing for publication, accessible platforms for sharing digital collections, creating a budget based on your research project, and ...
+
+Each participants is going to receive a $1,000 stipend by the end of the program to use on their project: nominal for a project in total but certainly enough to produce a shareable outcome of their research, in turn able to be used to gather greater support (volunteer labor, outreach, grant funding).
+
+The structure of this summer school is inspired by Courtney Ehrlichman and Jasdeep Khaira's Flight School of artists in Pittsburgh. Obvious departures are that this is more arts and humanities research than entrepreneurial training, however the impetus to give people time space and community to workshop their practice into a more sustainable model was very successful and we are currently experiencing a simultaneous surge in motivation to produce more accurate and rich knoweldge of minority lived histories & experiences as well as a known gap in resources to activate these ideas.
+
