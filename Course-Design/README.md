@@ -22,5 +22,21 @@ The first month should be able to identify the questions being asked by all of t
 
 Each participants is going to receive a $1,000 stipend by the end of the program to use on their project: nominal for a project in total but certainly enough to produce a shareable outcome of their research, in turn able to be used to gather greater support (volunteer labor, outreach, grant funding).
 
+**Structure**
+
 The structure of this summer school is inspired by Courtney Ehrlichman and Jasdeep Khaira's Flight School of artists in Pittsburgh. Obvious departures are that this is more arts and humanities research than entrepreneurial training, however the impetus to give people time space and community to workshop their practice into a more sustainable model was very successful and we are currently experiencing a simultaneous surge in motivation to produce more accurate and rich knoweldge of minority lived histories & experiences as well as a known gap in resources to activate these ideas.
+
+We have 6 meetings over June, July, and August however there is plenty of room to meet with one another and as a group outside of these specific gatherings. Projects may turn increasingly collaborative and priorities may shift. The summer school is flexible enough to support this transformation. Participants will share contact information with one another in the first meeting: this might work best with a shared thread like signal, or another platform as the group feels comfortable -  slack, gchat, email lissterv, shared google doc, a standing date at a coffee shop / bar/ venue whatever.
+
+**Documentation**
+
+The Summer School deliverable is documentation of *project design*. What that means for us is the process of refining our projects from initial inquiry to a plan that can be shared, supported, and acted upon. Towards that end, we will share and annotate these outcomes as part of this github repository. This documentation is necessary for each participant as they build a vision of their research projects to share with others. Likewise it is a condition of our proposal that we share documentation of this summer school as an open source plan for others to attempt on their own. Documentation items might look like
+<ul>Version history of research question</ul>
+<ul>Annotated bibliographies of gathered material</ul>
+<ul>Interview subjects</ul>
+<ul>Timelines for research stages</ul>
+<ul>Budgets for project</ul>
+<ul>Sketches / renderings / prototypes</ul></ul>
+
+We can anonymize information according to the ethical needs of each participant, including ommitting or changing names and locations.  
 
