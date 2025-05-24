@@ -1,5 +1,6 @@
 <h1>Course Design</h1>
 <h2>June 11<sup>th</sup>, 2025</h2>
+
 **Introductions**
 
 We are at [ STUDIO or Kingsley Association ] for our first meeting, held from 6 PM to 9 PM.
