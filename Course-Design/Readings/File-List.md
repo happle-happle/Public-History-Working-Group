@@ -1,11 +1,4 @@
 
 
-# List of pdf's available on this repository
-
-Seperated by Discipline or Area of Study
-
-## Archival Studies
-
-- [*"I can't wait for you to die" A Community Archives Critique*](https://archivaria.ca/index.php/archivaria/article/view/13821/15213)
-
-**Author:** Harrison Apple, **Date:** 11/29/2021, **Publication** [Archivaria](https://archivaria.ca/)
+<h1> Link to Lit Packet </h1>
+https://docs.google.com/document/d/1JKZlPipo9cFJKwAjaIYmi0vSs-UOl5kRxzDVqe8wN1Q/edit?tab=t.0
