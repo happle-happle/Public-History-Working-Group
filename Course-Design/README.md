@@ -1,14 +1,20 @@
-<h1>June 11 2025</h1>
-
+<h1>Course Design</h1>
+<h2>June 11<sup>th</sup>, 2025</h2>
 **Introductions**
 
 We are at [ STUDIO or Kingsley Association ] for our first meeting, held from 6 PM to 9 PM.
 
 The goal for today is to introduce the Public History Summer School, what our motivations are for having done it, who funded it, who all is in attendance, and what we will be doing together privately as well as with public events. 
 
-We go over an outline schedule for this meetup: the further summer schedule (June 18th, and two weeks in July and August), discuss how participants will receive their research funds & equipment, and finally the kind of documentation we should consider part of our being together so that we can share what worked with others.
+We go over an outline schedule for this meetup: the further summer schedule (June 18th, and two weeks in July and August), discuss how participants will receive their research funds & equipment, and finally the kind of documentation we should consider part of our being together so that we can share what worked with others. Embodied Stewardship as people who are memory keepers, record keepers, culture keepers, practice keepers. A resistant form. What is the liberatory potential of holding the memory of the drum. Haitian revolution, spiritual practices that were necessary to aid that. What even has the potential to be an archive.
+
+**Some Opening Conversation Topics**
 
 Bekezela and Harrison have a conversation with the group about the Summer School, touching on literacy, how to talk about power, our relationship to archives and the institutions that dictate the use of the word, the way that we listen to others and how we learn. Everyone in attendance has been invited because of something they already do, a pool of methods and ways of articulating what they do that will useful to one another.
+
+
+The interrogation of the archive may have liberatory potential. A movement toward practice over inert preservation. Seed keeping, planting and seeing what happens. Harvesting in a new season. An organic approach, it's messy and uncertain. Letting go control of something as part of "keeping" it. The illusion of control that we're also wanting to contend with when we talk about working with archives. A way to demonstrate that we were here, left a mark, made an impact and at the same time we have been taught to keep records in a certain way. What's a freer a more liberated way to be an archivist or memory keeper, more liberated than "we have to have the stuff"? If the culture of keeping a story is in a person and sharing it with others who internalize, share, and pass it down, we don't have to have the "stuff" to have the story. The cultural lens in important. Thinking about / looking at indigenous practices for archiving in important. How we keep memory and how we value how we keep it is as important as keeping something.
+
 
 This conversation is a transition to introducing everyone to one another (Bekezela, Harrison, and the 15 cohort members).
 
@@ -30,7 +36,7 @@ We have 6 meetings over June, July, and August however there is plenty of room t
 
 **Documentation**
 
-The Summer School deliverable is documentation of *project design*. What that means for us is the process of refining our projects from initial inquiry to a plan that can be shared, supported, and acted upon. Towards that end, we will share and annotate these outcomes as part of this github repository. This documentation is necessary for each participant as they build a vision of their research projects to share with others. Likewise it is a condition of our proposal that we share documentation of this summer school as an open source plan for others to attempt on their own. Documentation items might look like
+The Summer School deliverable is documentation of *project design*. What that means for us is the process of refining our projects from initial inquiry to a plan that can be shared, supported, and acted upon. Towards that end, we will share and annotate these outcomes as part of this github repository. This documentation is necessary for each participant as they build a vision of their research projects to share with others. Likewise it is a condition of our proposal that we share documentation of this summer school as an open source plan for others to attempt on their own. Documentation items might look like:
 <ul>Version history of research question</ul>
 <ul>Annotated bibliographies of gathered material</ul>
 <ul>Interview subjects</ul>
