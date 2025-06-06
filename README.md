@@ -6,7 +6,7 @@ The [**Black Unicorn Library &amp; Archives**](http://www.theblackunicornlibrary
 
 [Agendas](Course-Design/Agendas)
 
-[Readings]
+[Readings](Course-Design/Readings/PDFs)
 
 [Tutorials] (pending)
 
