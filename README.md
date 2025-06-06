@@ -3,9 +3,13 @@ The [**Black Unicorn Library &amp; Archives**](http://www.theblackunicornlibrary
 [![black unicorn silhouette and words Black Unicorn Library & Archives](Repo-Image-files/bula_logo.png)](http://www.theblackunicornlibrary.org)
 
 <h1>Participant Resources</h1>
-<li>Agendas(https://github.com/happle-happle/Public-History-Working-Group/tree/main/Course-Design/Agendas)</li>
-<li>Readings (pending)</li>
-<li>Tutorials (pending)</li>
+
+[Agendas](.Course-Design/Agendas)
+
+[Readings]
+
+[Tutorials] (pending)
+
 
 **Applications for Summer 2025 Closed May 1st**
 
