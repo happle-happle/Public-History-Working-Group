@@ -13,4 +13,4 @@ The [**Black Unicorn Library &amp; Archives**](http://www.theblackunicornlibrary
 
 **Applications for Summer 2025 Closed May 1st**
 
-Please send questions about the program to "pghpublichistoryschool [at] proton.me 
+Please send questions about the program to pghpublichistoryschool [at] proton.me 
