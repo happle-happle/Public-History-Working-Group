@@ -4,7 +4,7 @@ The [**Black Unicorn Library &amp; Archives**](http://www.theblackunicornlibrary
 
 <h1>Participant Resources</h1>
 
-[Agendas](.Course-Design/Agendas)
+[Agendas](Course-Design/Agendas)
 
 [Readings]
 
